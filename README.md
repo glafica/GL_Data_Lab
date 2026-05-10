@@ -18,7 +18,7 @@ GL_Data_Lab
 ## 🤖 1. Machine Learning (2026)
 En esta sección se encuentran los proyectos y cuadernos relacionados con modelos predictivos, preprocesamiento, evaluación de modelos y experimentos de aprendizaje automático.
 
-## 📁 Trabajo_Integrador
+## 📁 Trabajo Integrador
 Proyecto final integrador donde aplico:
 
 Limpieza y preparación de datos
