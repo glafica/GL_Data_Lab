@@ -1,4 +1,5 @@
-# 📊 GL Data Lab — Ciencia y Análisis de Datos (2025–2026)
+# 📊 GL Data Lab 
+## Ciencia y Análisis de Datos (2025–2026)
 
 Bienvenido a GL Data Lab, mi espacio de trabajo, estudio y experimentación en Ciencia de Datos, Machine Learning y Análisis de Datos aplicado.
 Aquí encontrarás proyectos, cuadernos de Google Colab, scripts en Python y materiales complementarios en Excel/Access.
