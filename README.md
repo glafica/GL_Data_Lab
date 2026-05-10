@@ -39,15 +39,15 @@ Este trabajo resume el proceso completo de un pipeline de Machine Learning aplic
 
 ## 🐍 2. Python para Análisis de Datos (2025)
 (Próximamente...)
-
 Incluye cuadernos y scripts sobre:
-Manipulación de datos con Pandas
-Arrays y operaciones vectorizadas con NumPy
-Visualización con Matplotlib, Seaborn y Plotly
-Estadística descriptiva
-Análisis exploratorio (EDA)
-Correlaciones y relaciones entre variables
-Dashboards y reportes
+
+- Manipulación de datos con Pandas
+- Arrays y operaciones vectorizadas con NumPy
+- Visualización con Matplotlib, Seaborn y Plotly
+- Estadística descriptiva
+- Análisis exploratorio (EDA)
+- Correlaciones y relaciones entre variables
+- Dashboards y reportes
 
 ## 📚 Tecnologías utilizadas
 
