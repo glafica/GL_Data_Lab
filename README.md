@@ -10,11 +10,15 @@ El objetivo de este repositorio es documentar mi progreso, compartir buenas prá
 ```
 GL_Data_Lab
 │
-├── Machine_Learning
-│     └── Trabajo_Integrador
+│
+├── Análisis de Datos con Excel
+│     └── Proyecto 01
 │
 ├── Análisis de Datos con Python
 │     └── 2024 Big Data con Python
+│
+├── Machine_Learning
+│     └── Trabajo_Integrador
 │
 └── README.md
 ```
