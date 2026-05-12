@@ -13,6 +13,9 @@ GL_Data_Lab
 ├── Machine_Learning
 │     └── Trabajo_Integrador
 │
+├── Análisis de Datos con Python
+│     └── 2024 Big Data con Python
+│
 └── README.md
 ```
 ## 🤖 1. Machine Learning (2026)
