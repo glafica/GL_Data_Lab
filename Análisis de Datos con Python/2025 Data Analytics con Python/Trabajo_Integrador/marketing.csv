@@ -1,0 +1,91 @@
+id_campanha,producto,canal,costo,fecha_inicio,fecha_fin
+74,Adorno de pared,TV,4.81,20/03/2024,03/05/2024
+12,Tablet,RRSS,3.4,26/03/2024,13/05/2024
+32,Lámpara de mesa,Email,5.54,28/03/2024,20/04/2024
+21,Smartphone,RRSS,6.37,29/03/2024,16/05/2024
+58,Alfombra,Email,4.25,31/03/2024,05/05/2024
+85,SmartWatch,TV,05.07,01/04/2024,05/05/2024
+36,Plancha de vapor,Email,5.41,02/04/2024,01/06/2024
+57,Batidora,Email,4.48,10/04/2024,08/06/2024
+44,Adorno de pared,Email,05.08,13/04/2024,10/05/2024
+84,Parlantes Bluetooth,TV,4.42,17/04/2024,05/05/2024
+1,Cuadro decorativo,RRSS,5.27,27/04/2024,04/06/2024
+43,Cortinas,Email,5.67,02/05/2024,17/06/2024
+50,Consola de videojuegos,Email,4.97,03/05/2024,28/05/2024
+34,Heladera,Email,4.2,06/05/2024,05/07/2024
+15,Jarrón decorativo,RRSS,4.65,09/05/2024,13/06/2024
+46,Lavadora,Email,3.63,12/05/2024,29/05/2024
+29,Televisor,RRSS,3.96,17/05/2024,28/06/2024
+67,Proyector,TV,3.68,22/05/2024,12/07/2024
+76,Lavadora,TV,4.66,26/05/2024,02/07/2024
+51,Smartphone,Email,4.65,28/05/2024,15/06/2024
+69,Candelabro,TV,3.25,29/05/2024,30/06/2024
+2,Lámpara de mesa,RRSS,5.88,30/05/2024,29/06/2024
+4,Heladera,RRSS,4.53,31/05/2024,15/07/2024
+83,Espejo decorativo,TV,5.24,31/05/2024,08/07/2024
+47,Auriculares,Email,4.19,02/06/2024,22/07/2024
+45,Jarrón decorativo,Email,4.52,05/06/2024,31/07/2024
+71,Freidora eléctrica,TV,4.37,05/06/2024,24/07/2024
+38,Rincón de plantas,Email,5.76,14/06/2024,15/07/2024
+49,Cafetera,Email,5.2,20/06/2024,22/07/2024
+40,Aspiradora,Email,6.24,24/06/2024,12/08/2024
+22,Elementos de cerámica,RRSS,5.44,26/06/2024,15/07/2024
+37,Proyector,Email,3.22,06/07/2024,26/07/2024
+72,Tablet,TV,4.9,08/07/2024,03/09/2024
+64,Heladera,TV,4.38,10/07/2024,09/08/2024
+42,Tablet,Email,4.42,14/07/2024,03/09/2024
+17,Auriculares,RRSS,06.06,15/07/2024,15/08/2024
+20,Consola de videojuegos,RRSS,3.16,15/07/2024,03/08/2024
+18,Cámara digital,RRSS,5.46,16/07/2024,13/09/2024
+39,Candelabro,Email,06.08,17/07/2024,18/08/2024
+53,Espejo decorativo,Email,4.9,17/07/2024,01/08/2024
+3,Secadora,RRSS,5.1,24/07/2024,30/08/2024
+88,Alfombra,TV,7.39,25/07/2024,31/08/2024
+7,Proyector,RRSS,5.57,30/07/2024,16/08/2024
+35,Horno eléctrico,Email,5.65,31/07/2024,29/09/2024
+78,Cámara digital,TV,4.1,02/08/2024,20/09/2024
+8,Rincón de plantas,RRSS,4.88,03/08/2024,18/08/2024
+56,Microondas,Email,4.94,06/08/2024,25/08/2024
+54,Parlantes Bluetooth,Email,2.95,09/08/2024,22/09/2024
+79,Cafetera,TV,7.26,13/08/2024,11/10/2024
+16,Lavadora,RRSS,3.56,14/08/2024,20/09/2024
+31,Cuadro decorativo,Email,5.28,15/08/2024,12/09/2024
+73,Cortinas,TV,6.47,17/08/2024,26/09/2024
+10,Aspiradora,RRSS,7.16,19/08/2024,19/09/2024
+19,Cafetera,RRSS,5.7,19/08/2024,15/09/2024
+5,Horno eléctrico,RRSS,5.16,22/08/2024,17/10/2024
+62,Lámpara de mesa,TV,4.51,26/08/2024,07/10/2024
+87,Batidora,TV,6.28,27/08/2024,11/10/2024
+23,Espejo decorativo,RRSS,4.75,28/08/2024,17/10/2024
+82,Elementos de cerámica,TV,5.69,08/09/2024,12/10/2024
+52,Elementos de cerámica,Email,5.74,09/09/2024,30/09/2024
+13,Cortinas,RRSS,5.22,16/09/2024,15/10/2024
+24,Parlantes Bluetooth,RRSS,6.0,22/09/2024,26/10/2024
+6,Plancha de vapor,RRSS,04.02,24/09/2024,02/11/2024
+26,Microondas,RRSS,5.0,25/09/2024,14/10/2024
+86,Microondas,TV,4.25,25/09/2024,15/11/2024
+60,Laptop,Email,4.89,28/09/2024,27/10/2024
+81,Smartphone,TV,4.78,28/09/2024,24/10/2024
+66,Plancha de vapor,TV,4.69,04/10/2024,23/10/2024
+9,Candelabro,RRSS,5.32,08/10/2024,16/11/2024
+55,SmartWatch,Email,4.59,13/10/2024,6/12/2024
+14,Adorno de pared,RRSS,4.16,22/10/2024,21/12/2024
+30,Laptop,RRSS,4.68,23/10/2024,24/11/2024
+65,Horno eléctrico,TV,03.08,23/10/2024,11/12/2024
+48,Cámara digital,Email,6.84,31/10/2024,9/12/2024
+27,Batidora,RRSS,4.52,01/11/2024,08/12/2024
+80,Consola de videojuegos,TV,4.64,01/11/2024,20/11/2024
+63,Secadora,TV,5.69,03/11/2024,28/11/2024
+75,Jarrón decorativo,TV,4.1,03/11/2024,25/12/2024
+61,Cuadro decorativo,TV,5.3,05/11/2024,23/12/2024
+77,Auriculares,TV,4.99,11/11/2024,6/12/2024
+90,Laptop,TV,5.62,16/11/2024,13/1/2025
+59,Televisor,Email,4.19,20/11/2024,19/1/2025
+25,SmartWatch,RRSS,4.84,23/11/2024,29/12/2024
+41,Freidora eléctrica,Email,3.92,23/11/2024,1/1/2025
+28,Alfombra,RRSS,5.82,27/11/2024,8/1/2025
+70,Aspiradora,TV,03.06,13/12/2024,29/12/2024
+89,Televisor,TV,4.98,13/12/2024,8/2/2025
+68,Rincón de plantas,TV,5.81,17/12/2024,14/2/2025
+33,Secadora,Email,3.8,20/12/2024,7/1/2025
+11,Freidora eléctrica,RRSS,5.27,29/12/2024,21/1/2025
