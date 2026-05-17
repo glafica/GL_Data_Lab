@@ -16,8 +16,11 @@ GL_Data_Lab
 │
 ├── Análisis de Datos con Python
 │     └── 2024 Big Data con Python
+│     |     └── Trabajo_Integrador
+|     | 
 │     └── 2025 Data Analytics con Python
-│
+│            └── Trabajo_Integrador
+|
 ├── Machine_Learning
 │     └── Trabajo_Integrador
 │
