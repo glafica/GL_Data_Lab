@@ -1,5 +1,5 @@
 # 📊 GL Data Lab 
-## Ciencia y Análisis de Datos (2025–2026)
+## Ciencia y Análisis de Datos (2023–2026)
 
 Bienvenido a GL Data Lab, mi espacio de trabajo, estudio y experimentación en Ciencia de Datos, Machine Learning y Análisis de Datos aplicado.
 Aquí encontrarás proyectos, cuadernos de Google Colab, scripts en Python y materiales complementarios en Excel/Access.
@@ -15,6 +15,7 @@ GL_Data_Lab
 │     └── Proyecto 01
 │
 ├── Análisis de Datos con Python
+|     |
 │     └── 2024 Big Data con Python
 │     |     └── Trabajo_Integrador
 |     | 
@@ -48,7 +49,7 @@ Conclusiones y mejoras futuras
 
 Este trabajo resume el proceso completo de un pipeline de Machine Learning aplicado a un caso real.
 
-## 🐍 2. Python para Análisis de Datos (2025)
+## 🐍 2. Python para Análisis de Datos (2024-2025)
 (Próximamente...)
 Incluye cuadernos y scripts sobre:
 
