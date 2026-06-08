@@ -13,6 +13,9 @@ GL_Data_Lab
 │
 ├── Análisis de Datos con Excel
 │     └── Proyecto 01
+|
+├── Análisis de Datos con Power BI
+│     └── Misiones Espaciales
 │
 ├── Análisis de Datos con Python
 |     |
