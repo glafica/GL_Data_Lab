@@ -11,11 +11,11 @@ El objetivo de este repositorio es documentar mi progreso, compartir buenas prá
 GL_Data_Lab
 │
 │
-├── Análisis de Datos con Excel
+├── Análisis con Excel
 │     |
 |     └── Proyecto 01
 |
-├── Análisis de Datos con Power BI
+├── Análisis con Power BI
 │     |
 |     └── Misiones Espaciales
 │
@@ -28,6 +28,7 @@ GL_Data_Lab
 │            └── Trabajo_Integrador
 |
 ├── Machine_Learning
+|     |
 │     └── Trabajo_Integrador
 │
 └── README.md
