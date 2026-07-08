@@ -13,7 +13,8 @@ GL_Data_Lab
 │
 ├── Análisis con Excel
 │     |
-|     └── Proyecto 01
+|     └── Power Pivot y Power Maps
+             └── Trabajo_Integrador
 |
 ├── Análisis con Power BI
 │     |
