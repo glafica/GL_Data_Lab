@@ -24,10 +24,12 @@ Consigna del Trabajo Integrador 👉 <a href="https://github.com/glafica/GL_Data
 </a>
 -->
 
-<a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/GL%20Paseo%201.mp4" target="_blank">
-  <img src="RUTA_DE_LA_IMAGEN" width="70%">
-</a>
 
+El trabajo incluye un recorrido virtual generado con Power Maps que se puede ver haciendo clic en la miniatura 👇
+
+<a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/GL%20Paseo%201.mp4" target="_blank">
+  <img src="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/RecorridoVirtual.png" width="70%" alt="Reproducir video">
+</a>
 
 
 ---
