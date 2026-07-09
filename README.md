@@ -18,7 +18,7 @@ GL_Data_Lab
 |
 ├── Análisis con Power BI
 │     |
-|     └── Misiones Espaciales
+|     └── 2026 Misiones Espaciales
 │
 ├── Análisis de Datos con Python
 |     |
