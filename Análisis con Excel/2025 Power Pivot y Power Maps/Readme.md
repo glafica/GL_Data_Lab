@@ -17,6 +17,21 @@ Consigna del Trabajo Integrador 👉 <a href="https://github.com/glafica/GL_Data
   <img src="https://img.shields.io/badge/Abrir%20PDF-red?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
 </a>
 -->
+
+<!--
+<a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/GL%20Paseo%201.mp4" target="_blank">
+  <img src="https://img.shields.io/badge/Reproducir%20Video-red?logo=play&logoColor=white&style=for-the-badge">
+</a>
+-->
+
+<a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/GL%20Paseo%201.mp4" target="_blank">
+  <img src="RUTA_DE_LA_IMAGEN" width="70%">
+</a>
+
+
+
+---
+
 Esta fué la consigna del trabajo 👇
 
 <img width="1192" height="1684" alt="TP1" src="https://github.com/user-attachments/assets/55c43073-2a1a-496c-bd26-4a9e42f69097" />
