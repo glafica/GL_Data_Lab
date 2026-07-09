@@ -17,6 +17,7 @@ Consigna del Trabajo Integrador 👉 <a href="https://github.com/glafica/GL_Data
   <img src="https://img.shields.io/badge/Abrir%20PDF-red?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
 </a>
 -->
+Esta fué la consigna del trabajo 👇
 
 <img width="1192" height="1684" alt="TP1" src="https://github.com/user-attachments/assets/55c43073-2a1a-496c-bd26-4a9e42f69097" />
 <img width="1192" height="1684" alt="TP2" src="https://github.com/user-attachments/assets/309be515-1e47-4a0b-9bfe-efc19e058554" />
