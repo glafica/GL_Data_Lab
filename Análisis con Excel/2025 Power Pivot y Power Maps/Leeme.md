@@ -1,6 +1,6 @@
 Esta carpeta contiene:
 
-Trabajo Integrador del curso "Power Pivot y Power Maps con Chat GPT" - 2025 -
+Trabajo Integrador del curso: "Power Pivot y Power Maps con Chat GPT" - 2025 -
 ---
 
 Haciendo clic en el botón podés ver en video el resultado final del trabajo 👇
