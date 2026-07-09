@@ -13,8 +13,8 @@ GL_Data_Lab
 │
 ├── Análisis con Excel
 │     |
-|     └── Power Pivot y Power Maps
-             └── Trabajo_Integrador
+|     └── 2025 Power Pivot y Power Maps
+            └── Trabajo_Integrador
 |
 ├── Análisis con Power BI
 │     |
@@ -26,7 +26,7 @@ GL_Data_Lab
 │     |     └── Trabajo_Integrador
 |     | 
 │     └── 2025 Data Analytics con Python
-│            └── Trabajo_Integrador
+│           └── Trabajo_Integrador
 |
 ├── Machine_Learning
 |     |
