@@ -11,5 +11,19 @@ Trabajo Integrador del curso "Power Pivot y Power Maps con Chat GPT" 2025.
 
 ---
 
-<embed src="GL_Data_Lab/Análisis con Excel/2025 Power Pivot y Power Maps
-/Trabajo Integrador.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src=https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/Trabajo%20integrador.pdf width="100%" height="600px" />
+
+---
+ 
+<a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/Trabajo%20integrador.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Abrir%20PDF-red?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
+</a>
+
+
+
+---
+
+
+<a href="URL_DEL_PDF" target="_blank">
+  <img src="https://img.shields.io/badge/Abrir%20PDF-red?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
+</a>
