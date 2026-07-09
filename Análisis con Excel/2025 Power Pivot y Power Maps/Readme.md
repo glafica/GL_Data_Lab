@@ -34,6 +34,15 @@ El trabajo incluye un recorrido virtual generado con Power Maps que podes descar
 
 ---
 
+Capturas de Pantalla 👇
+
+<img width="1780" height="950" alt="CP01" src="https://github.com/user-attachments/assets/298d57ba-a131-4ee5-88ee-97aeb1af889a" />
+<img width="1853" height="952" alt="CP03" src="https://github.com/user-attachments/assets/c4064cba-7ad9-478f-b7ee-b866d3f41fc9" />
+<img width="1819" height="962" alt="CP02" src="https://github.com/user-attachments/assets/947ef7c8-30be-417b-abb7-52a096231469" />
+
+
+---
+
 Esta fué la consigna del trabajo 👇
 
 <img width="1192" height="1684" alt="TP1" src="https://github.com/user-attachments/assets/55c43073-2a1a-496c-bd26-4a9e42f69097" />
