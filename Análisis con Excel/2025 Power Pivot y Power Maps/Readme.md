@@ -1,40 +1,25 @@
-Esta carpeta contiene:
+#### Esta carpeta contiene:
 
-Trabajo Integrador del curso: "Power Pivot y Power Maps con Chat GPT" - 2025 -
----
-
-▶️🎦 Haciendo clic en el botón podés ver en video todo el resultado final de mi trabajo 👇
-
-
-<a href="https://www.youtube.com/watch?v=KIWjySDaeZE" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Demostración%20en Video ▶ %20YouTube-red?logo=youtube&logoColor=white&style=for-the-badge">
-</a>
-
+## Trabajo Integrador del curso: "Power Pivot y Power Maps con Chat GPT" - 2025 -
 
 ---
-<!--
-Consigna del Trabajo Integrador 👉 <a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/Trabajo%20integrador.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Abrir%20PDF-red?logo=adobeacrobatreader&logoColor=white&style=for-the-badge">
-</a>
--->
+<div align="center">
+  
+### ▶️🎦 Haciendo clic en el botón podés ver en video todo el resultado final de mi trabajo 👇
 
-<!--
-<a href="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/GL%20Paseo%201.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/Reproducir%20Video-red?logo=play&logoColor=white&style=for-the-badge">
-</a>
--->
+# 📽️                <a href="https://www.youtube.com/watch?v=KIWjySDaeZE" target="_blank">   <img src="https://img.shields.io/badge/Ver%20Demostración%20en Video ▶ %20YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"> </a>
 
+---
 
-🎦🌐 El trabajo incluye un recorrido virtual generado con Power Maps que podes descargar haciendo clic en la miniatura 👇
+### 🎦🌐 El trabajo incluye un recorrido virtual generado con Power Maps que podes descargar haciendo clic en la miniatura 👇
 
 <a href="https://raw.githubusercontent.com/glafica/GL_Data_Lab/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/GL%20Paseo%201.mp4" target="_blank">
   <img src="https://github.com/glafica/GL_Data_Lab/blob/main/An%C3%A1lisis%20con%20Excel/2025%20Power%20Pivot%20y%20Power%20Maps/RecorridoVirtual.png" width="70%" alt="Reproducir video">
 </a>
 
-
 ---
 
-✂️🖥️ Capturas de Pantalla 👇
+### ✂️🖥️ Capturas de Pantalla 👇
 
 <img width="1736" height="864" alt="TP_Integrador_PP+PM" src="https://github.com/user-attachments/assets/0cb33578-ef7a-4863-a5a2-b5f97d6ab4ce" />
 <img width="1629" height="933" alt="CP01" src="https://github.com/user-attachments/assets/c1d6d196-e74f-41d8-bab0-4fc42b9db894" />
@@ -51,9 +36,11 @@ Consigna del Trabajo Integrador 👉 <a href="https://github.com/glafica/GL_Data
 
 ---
 
-📒🛠️ Consigna del trabajo 👇
+### 📒🛠️ Consigna del trabajo 👇
 
 <img width="1192" height="1684" alt="TP1" src="https://github.com/user-attachments/assets/55c43073-2a1a-496c-bd26-4a9e42f69097" />
 <img width="1192" height="1684" alt="TP2" src="https://github.com/user-attachments/assets/309be515-1e47-4a0b-9bfe-efc19e058554" />
 <img width="1192" height="1684" alt="TP3" src="https://github.com/user-attachments/assets/5261a80c-da8d-4ef8-bffd-5c33bdb16c6a" />
 <img width="1192" height="1684" alt="TP4" src="https://github.com/user-attachments/assets/317e5887-6aeb-4317-beb6-59f65dd09179" />
+
+</div>
