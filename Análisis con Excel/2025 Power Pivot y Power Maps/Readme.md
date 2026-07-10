@@ -35,10 +35,33 @@ El trabajo incluye un recorrido virtual generado con Power Maps que podes descar
 ---
 
 Capturas de Pantalla 👇
+<img width="1736" height="864" alt="TP_Integrador_PP+PM" src="https://github.com/user-attachments/assets/0cb33578-ef7a-4863-a5a2-b5f97d6ab4ce" />
+<img width="1629" height="933" alt="CP01" src="https://github.com/user-attachments/assets/c1d6d196-e74f-41d8-bab0-4fc42b9db894" />
+<img width="1316" height="937" alt="CP02" src="https://github.com/user-attachments/assets/4a7ac869-b163-4ab6-b82e-b0aadda7dbd5" />
+<img width="1199" height="959" alt="CP03" src="https://github.com/user-attachments/assets/f1e9a5b1-d010-4842-83b3-ea51a3ce49f1" />
+<img width="1689" height="859" alt="CP04" src="https://github.com/user-attachments/assets/435681cb-e525-46f1-aae7-d52a80ea9970" />
+<img width="1918" height="1030" alt="CP05" src="https://github.com/user-attachments/assets/c684af7f-bf70-4a0a-b855-277ebb431db6" />
+<img width="1917" height="1032" alt="CP06" src="https://github.com/user-attachments/assets/cf9cd198-f255-4d38-909e-13b50f7a345e" />
+<img width="1908" height="1071" alt="CP07" src="https://github.com/user-attachments/assets/f8204102-00a8-4940-865c-c31b9402ef9f" />
+<img width="1918" height="1079" alt="CP08" src="https://github.com/user-attachments/assets/4e70373e-2f84-42a0-a9b5-e7be800b0057" />
+<img width="1913" height="1030" alt="VistadeDatos" src="https://github.com/user-attachments/assets/11d948e2-d8e3-404b-b907-02bcb63367b9" />
+<img width="1914" height="1031" alt="VistadeDiagrama" src="https://github.com/user-attachments/assets/03d39533-6ee3-43d1-ba98-3d47726eb1e2" />
 
-<img width="1780" height="950" alt="CP01" src="https://github.com/user-attachments/assets/298d57ba-a131-4ee5-88ee-97aeb1af889a" />
-<img width="1853" height="952" alt="CP03" src="https://github.com/user-attachments/assets/c4064cba-7ad9-478f-b7ee-b866d3f41fc9" />
-<img width="1819" height="962" alt="CP02" src="https://github.com/user-attachments/assets/947ef7c8-30be-417b-abb7-52a096231469" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
