@@ -158,6 +158,8 @@ Diseño de Storytelling visual para presentar 67 años de actividad espacial.
 
 ---
 
+Modelo en estrella (Star Schema) 👇
+
 <Img src="08_Datos_02.png" width=1000>
 <br>
 
