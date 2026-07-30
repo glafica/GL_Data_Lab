@@ -77,22 +77,36 @@ Google Colab
 Excel / Access
 Git & GitHub
 
-
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0A66C2?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=flat)
 ![Analytics](https://img.shields.io/badge/Analytics-4C8CBF?style=flat)
+
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+![Access](https://img.shields.io/badge/Access-A4373A?logo=microsoft-access&logoColor=white&style=flat)
 ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-185ABD?logo=microsoft-excel&logoColor=white&style=flat)
 ![VBA](https://img.shields.io/badge/VBA-217346?logo=visualbasic&logoColor=white&style=flat)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![DAX Studio](https://img.shields.io/badge/DAX%20Studio-4C8CBF?logo=databricks&logoColor=white&style=flat)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?logo=looker&logoColor=white&style=flat)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white&style=flat)
+
+
+
+
+
+
+
 
 ## 🎯 Objetivo del repositorio
 
